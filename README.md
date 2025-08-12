@@ -70,4 +70,3 @@ spring.rabbitmq.password=guest
 1. Security
 2. Validations of hierarchy while adding a new hospital node
 3. Manual acknowledgments and requeueing if required.
-# rabbitMQ-poc
